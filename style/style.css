@@ -1,0 +1,30 @@
+td,th{
+  vertical-align: middle !important;
+  text-align: center!important;
+}
+.input-group{
+  margin: 20px 0px;
+}
+
+svg{
+  height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+  height: 150px;
+  width: 250px;
+}
+.city-name{
+  text-shadow: true;
+  font-size: 12;
+  font-family: sans-serif;
+  font-color: #3333;
+  font-style: italic;
+  font-weight: 600;
+
+}
+
+.google-map{
+  height: 175px;
+  width: 250px;
+}
